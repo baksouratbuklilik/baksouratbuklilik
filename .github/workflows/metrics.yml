@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Jalan otomatis tiap tengah malam
-  workflow_dispatch: # Biar bisa lo klik run manual kapan aja
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,17 +12,25 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community
           
-          # 1. Kalender Kota Isometrik 3D
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Matikan semua statistik bawaan GitHub yang bikin duplikat
+          base: ""
           
-          # 2. Analitik Jam Ngoding
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-
-          # Game Catur Chess.com
-          plugin_chess: yes
-          plugin_chess_platform: chess.com
+          # ==========================================
+          # 1. GAMING SHOWCASE (STEAM)
+          # ==========================================
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "https://steamcommunity.com/profiles/76561199549509683/"
+          plugin_steam_sections: favorites, recently-played
+          plugin_steam_games_limit: 4
+          
+          # ==========================================
+          # 2. ANIME & WAIFU SHOWCASE (ANILIST)
+          # ==========================================
+          plugin_anilist: yes
+          plugin_anilist_user: "Blancwithkuroo"
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 4
+          plugin_anilist_limit_characters: 2 # Nampilin karakter favorit/waifu

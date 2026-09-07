@@ -1,6 +1,6 @@
-# Hi there, I'm M. Roby Suharto 👋
+# halo cuy, I'm M. Roby Suharto 👋
 
-**Full-Stack Mobile Developer & Informatics Engineering Student**
+**Mobile Developer Magang & Informatics Engineering Student**
 
 Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Passionate about cross-platform mobile apps, reactive backend architecture, and modern developer tooling.
 
@@ -36,23 +36,7 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
-### 🛠️ Featured Projects
-
-🌐 **NgalayapJatim** — Web Travel & Tourism Recommendation
-* Tech Stack: PHP, JavaScript, MySQL
-* Implemented forward chaining recommendation logic for East Java tourism discovery.
-
-📱 **Sign Language Recognition App** — Mobile Accessibility Tool
-* Tech Stack: Flutter, Dart, MediaPipe
-* Real-time gesture recognition with landmark tracking to convert sign language into text.
-
-⚡ **Styxnime** — Anime Discovery Platform
-* Tech Stack: Node.js, Express, REST API
-* Lightweight anime directory and API aggregator.
-
----
-
-### 📊 GitHub Analytics & Contributions
+### 📊 stat github tapi busuk
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=baksouratbuklilik&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -71,7 +55,7 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
-### ♟️ Community Chess
+### ♟️ catur
 
 *Click a move in the table below to play against the community!*
 
@@ -132,6 +116,15 @@ Turn: <!-- BEGIN TURN -->white<!-- END TURN -->
 
 </details>
 
+
+---
+
+### gemink sama anime
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baksouratbuklilik/baksouratbuklilik/main/github-metrics.svg" alt="gemink sama anime" />
+</p>
+
 ---
 
 ### 🎧 Now Playing
@@ -144,7 +137,7 @@ Turn: <!-- BEGIN TURN -->white<!-- END TURN -->
 
 ---
 
-### 🤝 Let's Connect!
+### ayo berteman 🤝
 
 <p align="left">
   <a href="https://linkedin.com/in/m-roby-suharto" target="_blank">
