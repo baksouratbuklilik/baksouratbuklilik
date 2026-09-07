@@ -1,92 +1,69 @@
-<div align="center">
+# Hi there, I'm M. Roby Suharto 👋
 
-# robyy
+**Raja iblis**
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Full-Stack+Mobile+Enthusiast;Making+moves+like+a+Grandmaster;Turn+Coffee+into+Clean+Code" alt="Typing SVG" />
-</a>
+Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Passionate about cross-platform mobile apps, reactive backend architecture, and modern developer tooling.
 
-<p>
-  <i>"Hi, aku raja iblis. Hari ini giliran lo yang bikin move."</i>
-</p>
+- 🚀 Currently focusing on **Mobile Development**
+- 💼 Open for **Mobile Developer Opportunities & Internships**
+- 📬 Reach me via email: [mrobysuharto@gmail.com](mailto:your-email@gmail.com)
 
 ---
 
-<!-- Socials Floating Badges -->
-### 🌐 Connect With Me
+### 💻 Tech Stack & Tools
 
-<a href="https://facebook.com/M.Roby.Suharto" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://linkedin.com/in/m-roby-suharto" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-</div>
-
----
-
-### 💻 Tech Arsenal & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+**Mobile & Core Languages**
+<p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**Databases & Cloud**
+<p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Tools & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### ♟️ Community Chess Board (Bisa Dimainin!)
-<!-- Fitur catur interaktif langsung di profil pake GitHub Issue -->
-<p align="center">
-  <i>Klik link di bawah bidak buat kirim langkah lo lewat GitHub Issues!</i>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/chess.png" alt="Chess Game" width="350"/>
-</p>
 
-> Ingin pasang game catur aktif yang beneran jalan di repo ini? Lo tinggal fork repo [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) lalu jalanin setup action-nya!
-
----
-
-### 📊 Battlefield Stats
-
-<div align="center">
-
-<!-- GitHub Stats Dark Synthwave Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=rbyyshrtt&show_icons=true&theme=radical&hide_border=true&title_color=00F5D4&icon_color=F72585&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbyyshrtt&layout=compact&theme=radical&hide_border=true&title_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="42%" />
-
-</div>
-
----
-
-### 🧩 Random Dev Quote
+### 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=baksouratbuklilik&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=baksouratbuklilik&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baksouratbuklilik&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
 ---
 
-<div align="center">
+### 🤝 Let's Connect!
 
-<!-- Snake Eating Contribution Graph (Snake Animation) -->
-<img src="https://raw.githubusercontent.com/rbyyshrtt/rbyyshrtt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="left">
+  <a href="https://linkedin.com/in/m-roby-suharto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/M Roby Suharto" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/itsmrbyyvxlt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<br><br>
-
-<!-- Visitor Badge Fix -->
-<img src="https://komarev.com/ghpvc/?username=rbyyshrtt&label=Profile%20Views&color=7928CA&style=flat" alt="Profile Views" />
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=baksouratbuklilik&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
