@@ -13,8 +13,8 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 ### 🎧 Now Listening
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&bar_color=ff79c6&bar_color_cover=false" style="border: 2px solid #ff79c6; border-radius: 10px;" />
+  <a href="https://open.spotify.com">
+    <img src="https://novatorem-mu-gules.vercel.app/api/orchestrator" style="border: 2px solid #ff79c6; border-radius: 10px;" />
   </a>
 </p>
 
