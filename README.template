@@ -1,12 +1,12 @@
 # Hi there, I'm M. Roby Suharto 👋
 
-**Raja iblis**
+**Full-Stack Mobile Developer & Informatics Engineering Student**
 
 Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Passionate about cross-platform mobile apps, reactive backend architecture, and modern developer tooling.
 
 - 🚀 Currently focusing on **Mobile Development**
 - 💼 Open for **Mobile Developer Opportunities & Internships**
-- 📬 Reach me via email: [mrobysuharto@gmail.com](mailto:your-email@gmail.com)
+- 📬 Reach me via email: [mrobysuharto@gmail.com](mailto:mrobysuharto@gmail.com)
 
 ---
 
@@ -36,6 +36,21 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
+### 🛠️ Featured Projects
+
+🌐 **NgalayapJatim** — Web Travel & Tourism Recommendation
+* Tech Stack: PHP, JavaScript, MySQL
+* Implemented forward chaining recommendation logic for East Java tourism discovery.
+
+📱 **Sign Language Recognition App** — Mobile Accessibility Tool
+* Tech Stack: Flutter, Dart, MediaPipe
+* Real-time gesture recognition with landmark tracking to convert sign language into text.
+
+⚡ **Styxnime** — Anime Discovery Platform
+* Tech Stack: Node.js, Express, REST API
+* Lightweight anime directory and API aggregator.
+
+---
 
 ### 📊 GitHub Analytics & Contributions
 
@@ -50,13 +65,58 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
+### ♟️ Community Chess
+
+*Click a move in the table below to play against the community!*
+
+Turn: <!-- BEGIN TURN -->?<!-- END TURN -->
+
+<!-- BEGIN CHESS BOARD -->
+*(Waiting for first game move)*
+<!-- END CHESS BOARD -->
+
+**Choose your move:**
+<!-- BEGIN MOVES LIST -->
+*(Waiting for legal moves)*
+<!-- END MOVES LIST -->
+
+<details>
+  <summary>📜 Last Moves</summary>
+
+<!-- BEGIN LAST MOVES -->
+*(No moves yet)*
+<!-- END LAST MOVES -->
+
+</details>
+
+<details>
+  <summary>🏆 Top Players</summary>
+
+<!-- BEGIN TOP MOVES -->
+*(No rankings yet)*
+<!-- END TOP MOVES -->
+
+</details>
+
+---
+
+### 🎧 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark" />
+  </a>
+</p>
+
+---
+
 ### 🤝 Let's Connect!
 
 <p align="left">
   <a href="https://linkedin.com/in/m-roby-suharto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/M Roby Suharto" target="_blank">
+  <a href="https://facebook.com/M.Roby.Suharto" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/itsmrbyyvxlt" target="_blank">
@@ -66,51 +126,4 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=baksouratbuklilik&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
-# GitHub README Chess Tournament
-
-This is an open chess tournament where ANYONE can play. That's the fun part.  
-It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
-
-<!-- BEGIN CHESS BOARD -->
-(Here goes the chess board)
-<!-- END CHESS BOARD -->
-
-**It's your turn to move! Choose one from the following table**
-<!-- BEGIN MOVES LIST -->
-(Here goes the list of legal moves)
-<!-- END MOVES LIST -->
-
-Having fun? Ask a friend to do the next move!
-
-#### How it works
-
-When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
-
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/marcizhu/readme-chess/issues) and I will try to fix it as soon as possible :D
-
-
-<details>
-  <summary>Last 5 moves in this game</summary>
-<!-- BEGIN LAST MOVES -->
-(Here goes the list of the last 5 moves)
-<!-- END LAST MOVES -->
-</details>
-
-<details>
-  <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES -->
-(Here goes the top 10 most moves)
-<!-- END TOP MOVES -->
-</details>
-
----
-
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
-  </a>
 </p>
