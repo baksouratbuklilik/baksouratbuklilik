@@ -56,6 +56,7 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ### 📊 GitHub Stats tapi busuk
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=baksouratbuklilik&rank_icon=github&custom_title=my%20stats%20gwe&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=baksouratbuklilik&rank_icon=github&custom_title=my%20stats%20gwe&show_icons=true&include_all_commits=true&theme=tokyonight)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=baksouratbuklilik&layout=donut&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=baksouratbuklilik&layout=donut&langs_count=6&theme=tokyonight)
 
 ---
