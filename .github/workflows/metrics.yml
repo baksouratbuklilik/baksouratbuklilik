@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Jalan otomatis tiap tengah malam
+  workflow_dispatch: # Biar bisa lo klik run manual kapan aja
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community
+          
+          # 1. Kalender Kota Isometrik 3D
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # 2. Analitik Jam Ngoding
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+
+          # Game Catur Chess.com
+          plugin_chess: yes
+          plugin_chess_platform: chess.com
