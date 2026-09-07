@@ -24,13 +24,3 @@ jobs:
           plugin_steam_user: "https://steamcommunity.com/profiles/76561199549509683/"
           plugin_steam_sections: favorites, recently-played
           plugin_steam_games_limit: 4
-          
-          # ==========================================
-          # 2. ANIME & WAIFU SHOWCASE (ANILIST)
-          # ==========================================
-          plugin_anilist: yes
-          plugin_anilist_user: "Blancwithkuroo"
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 4
-          plugin_anilist_limit_characters: 2 # Nampilin karakter favorit/waifu
