@@ -65,6 +65,12 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baksouratbuklilik/baksouratbuklilik/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 ### ♟️ Community Chess
 
 *Click a move in the table below to play against the community!*
