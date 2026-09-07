@@ -1,1 +1,1 @@
-{}
+{'@baksouratbuklilik': 1}
