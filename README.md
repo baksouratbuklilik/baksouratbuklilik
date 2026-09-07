@@ -14,7 +14,7 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" width="450px" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true" width="550" />
   </a>
 </p>
 
