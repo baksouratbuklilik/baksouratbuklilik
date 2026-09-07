@@ -36,6 +36,22 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
+### 🛠️ Featured Projects
+
+🌐 **NgalayapJatim** — Web Travel & Tourism Recommendation
+* Tech Stack: PHP, JavaScript, MySQL
+* Implemented forward chaining recommendation logic for East Java tourism discovery.
+
+📱 **Sign Language Recognition App** — Mobile Accessibility Tool
+* Tech Stack: Flutter, Dart, MediaPipe
+* Real-time gesture recognition with landmark tracking to convert sign language into text.
+
+⚡ **Styxnime** — Anime Discovery Platform
+* Tech Stack: Node.js, Express, REST API
+* Lightweight anime directory and API aggregator.
+
+---
+
 ### 📊 GitHub Analytics & Contributions
 
 <p align="center">
@@ -51,24 +67,35 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ### ♟️ Community Chess
 
-*Click a move in the table below to play against the community! Turn:* **<!-- BEGIN TURN --><!-- END TURN -->**
+*Click a move in the table below to play against the community!*
+
+Turn: <!-- BEGIN TURN -->?<!-- END TURN -->
 
 <!-- BEGIN CHESS BOARD -->
+*(Waiting for first game move)*
 <!-- END CHESS BOARD -->
 
+**Choose your move:**
 <!-- BEGIN MOVES LIST -->
+*(Waiting for legal moves)*
 <!-- END MOVES LIST -->
 
 <details>
   <summary>📜 Last Moves</summary>
+
 <!-- BEGIN LAST MOVES -->
+*(No moves yet)*
 <!-- END LAST MOVES -->
+
 </details>
 
 <details>
   <summary>🏆 Top Players</summary>
+
 <!-- BEGIN TOP MOVES -->
+*(No rankings yet)*
 <!-- END TOP MOVES -->
+
 </details>
 
 ---
