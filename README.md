@@ -10,6 +10,24 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
+### 🎧 Now Listening
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" width="450px" />
+  </a>
+</p>
+
+---
+
+### 🎮 gemink sama anime
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baksouratbuklilik/baksouratbuklilik/main/github-metrics.svg" width="85%" alt="Steam Showcase" />
+</p>
+
+---
+
 ### 💻 Tech Stack & Tools
 
 **Mobile & Core Languages**
@@ -36,7 +54,7 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
-### 📊 stat github tapi busuk
+### 📊 GitHub Stats tapi busuk
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=baksouratbuklilik&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -49,52 +67,23 @@ Undergraduate Student in Informatics Engineering at Politeknik Negeri Jember. Pa
 
 ---
 
-### ♟️ catur
+### ♟️ Catur
 
 *Click a move in the table below to play against the community!*
 
-Turn: <!-- BEGIN TURN -->black<!-- END TURN -->
+Turn: <!-- BEGIN TURN -->white<!-- END TURN -->
 
 <!-- BEGIN CHESS BOARD -->
-|   | H | G | F | E | D | C | B | A |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
-| **2** | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
-| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
-| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
-| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
-| **7** | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | **7** |
-| **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/queen.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/rook.svg" width=50px> | **8** |
-|   | **H** | **G** | **F** | **E** | **D** | **C** | **B** | **A** |   |
 <!-- END CHESS BOARD -->
 
 **Choose your move:**
 <!-- BEGIN MOVES LIST -->
-|  FROM  | TO (Just click a link!) |
-| :----: | :---------------------- |
-| **A7** | [A5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A5), [A6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A6) |
-| **B7** | [B5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B5), [B6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B7+to+B6) |
-| **B8** | [A6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+A6), [C6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B8+to+C6) |
-| **C7** | [C5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C5), [C6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+C7+to+C6) |
-| **D7** | [D5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D7+to+D5), [D6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+D7+to+D6) |
-| **E7** | [E5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E7+to+E5), [E6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+E7+to+E6) |
-| **F7** | [F5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F7+to+F5), [F6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+F7+to+F6) |
-| **G7** | [G5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G7+to+G5), [G6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G7+to+G6) |
-| **G8** | [F6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+F6), [H6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+G8+to+H6) |
-| **H7** | [H5](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/baksouratbuklilik/baksouratbuklilik/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H7+to+H6) |
 <!-- END MOVES LIST -->
 
 <details>
   <summary>📜 Last Moves</summary>
 
 <!-- BEGIN LAST MOVES -->
-
-| Move | Author |
-| :--: | :----- |
-| `E2` to `E4` | [ @baksouratbuklilik](https://github.com/baksouratbuklilik) |
-| `Start game` | [ @baksouratbuklilik](https://github.com/baksouratbuklilik) |
-
 <!-- END LAST MOVES -->
 
 </details>
@@ -103,37 +92,13 @@ Turn: <!-- BEGIN TURN -->black<!-- END TURN -->
   <summary>🏆 Top Players</summary>
 
 <!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-| 1 | [@baksouratbuklilik](https://github.com/baksouratbuklilik) |
-
 <!-- END TOP MOVES -->
 
 </details>
 
-
 ---
 
-### gemink
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/baksouratbuklilik/baksouratbuklilik/main/github-metrics.svg" alt="gemink sama anime" />
-</p>
-
----
-
-### 🎧 Now Playing
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fd52fdvcrdzrd6qpqelca5ih7i&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=dark" />
-  </a>
-</p>
-
----
-
-### ayo berteman 🤝
+### 🤝 Ayo berteman cuy
 
 <p align="left">
   <a href="https://linkedin.com/in/m-roby-suharto" target="_blank">
