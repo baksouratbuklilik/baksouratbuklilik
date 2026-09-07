@@ -115,7 +115,7 @@ Turn: <!-- BEGIN TURN -->black<!-- END TURN -->
 
 ---
 
-### gemink sama anime
+### gemink
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/baksouratbuklilik/baksouratbuklilik/main/github-metrics.svg" alt="gemink sama anime" />
